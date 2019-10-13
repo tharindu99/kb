@@ -35,7 +35,7 @@ export function double(value: number): number {
  *
  * ### Example (commonjs)
  * ```js
- * var power = require('typescript-starter').power;
+ * var power = require('kb').power;
  * console.log(power(2,3))
  * // => 8
  * ```
